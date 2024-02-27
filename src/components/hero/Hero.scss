@@ -1,0 +1,74 @@
+.hero__content_title {
+  width: 518px;
+  color: rgb(33, 31, 84);
+  font-family: Roboto;
+  font-size: 68px;
+  font-weight: 700;
+  line-height: 73.98px;
+  letter-spacing: 0%;
+  margin-bottom: 22px;
+}
+
+.hero__content_text {
+  width: 590px;
+  color: rgb(110, 113, 145);
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30.01px;
+  letter-spacing: 0%;
+  margin-bottom: 34px;
+}
+
+.hero__content_contact {
+  display: flex;
+  align-items: center;
+}
+
+.hero__content_contact_btn {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0%;
+  text-align: center;
+  border-radius: 14px;
+  background: rgb(0, 117, 255);
+  padding: 26px 38px;
+  margin-right: 28px;
+}
+
+.hero__content_contact_call {
+  color: rgb(110, 113, 145);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 1.6px;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+
+.hero__content_contact_call_number {
+  color: rgb(33, 31, 84);
+  font-family: Roboto;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 36.01px;
+  letter-spacing: 0%;
+}
+
+.hero__content_contact_logo {
+  margin-right: 16px;
+}
+
+.hero__main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.hero {
+  margin-bottom: 155px;
+}

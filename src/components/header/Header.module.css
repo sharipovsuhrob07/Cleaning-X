@@ -1,0 +1,60 @@
+header {
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.header__main {
+  display: flex;
+  align-items: center;
+  gap: 42px;
+}
+
+.header_nav_list__item {
+  color: rgb(33, 31, 84);
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  letter-spacing: 0%;
+}
+
+.header_nav__list {
+  display: flex;
+  gap: 22px;
+}
+
+.header__btn_cart_link {
+  color: rgb(33, 31, 84);
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.header__btn {
+  display: inline-block;
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0%;
+  text-align: center;
+  border-radius: 14px;
+  background: rgb(0, 117, 255);
+  padding: 19px 24px;
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__left {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
